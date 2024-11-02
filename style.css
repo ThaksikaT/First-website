@@ -1,0 +1,53 @@
+body{
+    background-color:rgb(192, 219, 254);
+}
+
+button{
+    background-color: navy;
+    color: white;
+    font-size: 25px;
+}
+
+.headertitle{
+    color:darkblue;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Helvetica';
+    margin-top: 100px;
+}
+
+.hi-image{
+    display: block;
+    margin: 0 auto;
+    width: 30%;
+    border: 2px solid black;
+    border-radius: 3%;
+}
+.button1{
+    position: absolute;
+    height: 8%;
+    width: 25%;
+    left: 0%;
+    bottom: 92%;
+}
+.button2{
+    position: absolute;
+    height: 8%;
+    width: 25%;
+    left: 25%;
+    bottom: 92%;
+}
+.button3{
+    position: absolute;
+    height: 8%;
+    width: 25%;
+    left: 50%;
+    bottom: 92%;
+}
+.button4{
+    position: absolute;
+    height: 8%;
+    width: 25%;
+    left: 75%;
+    bottom: 92%;
+}
